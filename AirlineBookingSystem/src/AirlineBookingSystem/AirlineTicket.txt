@@ -1,0 +1,7 @@
+YOUR AIRLINE TICKET!
+From:Chennai
+To:Kolkata
+Price:$1200
+Class:Economy
+Date of Travel:23/10/2021
+Thank You for Flying With Us!
